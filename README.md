@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am an Assistant Professor at the China Center for Behavioral Economics and Finance at the Southwestern University of Finance and Economics. My research interests are in market design, specifically matching theory, mechanism design and behavioral economics.
 
 <!--
 **sdl1994/sdl1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
